@@ -1,1 +1,1 @@
-#This is a repo for git hub commands
+#This is a repo for git commands in the command line
